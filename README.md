@@ -60,5 +60,5 @@ Project is: _completed_
 We had to do CRM model, so I decieded to do it in .NET to learn that technology.
 
 ## Contact
-Created by [@HondaPL](https://hacia.students.wmi.amu.edu.pl/) 2020
+Created by [@ajeet](https://github.com/ajeetx/) 2020
 
